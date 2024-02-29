@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\store-example\\store\\store\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\obj\\Debug\\net8.0\\compressed\\i8iel51xmi.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\obj\\Debug\\net8.0\\scopedcss\\bundle\\store.styles.css",
+      "PackagePath": "staticwebassets\\store.styles.css"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\eot\\iransansdn.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\eot\\iransansdn.eot"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\eot\\iransansdnbold.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\eot\\iransansdnbold.eot"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\eot\\iransansdnlight.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\eot\\iransansdnlight.eot"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\svg\\iransansdn.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\svg\\iransansdn.svg"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\svg\\iransansdnbold.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\svg\\iransansdnbold.svg"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\svg\\iransansdnlight.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\svg\\iransansdnlight.svg"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\ttf\\iransansdn.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\ttf\\iransansdn.ttf"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\ttf\\iransansdnbold.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\ttf\\iransansdnbold.ttf"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\ttf\\iransansdnlight.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\ttf\\iransansdnlight.ttf"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\woff2\\iransansdn.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\woff2\\iransansdn.woff2"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\woff2\\iransansdnbold.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\woff2\\iransansdnbold.woff2"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\woff2\\iransansdnlight.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\woff2\\iransansdnlight.woff2"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\woff\\iransansdn.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\woff\\iransansdn.woff"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\woff\\iransansdnbold.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\woff\\iransansdnbold.woff"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\css\\fonts\\woff\\iransansdnlight.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\woff\\iransansdnlight.woff"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\image\\ibolak-logo.png",
+      "PackagePath": "staticwebassets\\image\\ibolak-logo.png"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\image\\samandehipng.parspng.com_.png",
+      "PackagePath": "staticwebassets\\image\\samandehipng.parspng.com_.png"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\store-example\\store\\store\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.store.props",
+      "PackagePath": "build\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.store.props",
+      "PackagePath": "buildMultiTargeting\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.store.props",
+      "PackagePath": "buildTransitive\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
